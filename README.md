@@ -23,7 +23,17 @@ Key steps include:
 
 ---
 
+
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
    git clone https://github.com/<abhinavsathi>/book-recommendation-engine.git
+
+##🎯 Example Usage
+   ```bash 
+   get_recommends("The Hobbit")
+
+
+## Output Example
+['The Fellowship of the Ring', 'The Two Towers', 'The Return of the King', ...]
+
